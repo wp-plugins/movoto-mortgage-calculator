@@ -1,0 +1,16 @@
+#movoto_mortgage_shortcode_dialog
+{
+  padding: 10px;
+  display: none;
+}
+
+.mm_buttonbox
+{
+  text-align: center;
+  margin: 10px;
+}
+
+#mm_cancel
+{
+  margin-right: 10px;
+}

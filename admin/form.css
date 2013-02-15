@@ -1,0 +1,75 @@
+.movoto_panebox
+{
+}
+
+.movoto_panebox .badgeBG
+{
+  background-image: url('images/assemble.png');
+  background-repeat: no-repeat;  
+  width: 33px;
+  height: 33px;
+  display: block;
+  float: left;
+  margin-right: 12px;
+  cursor: pointer;  
+}
+
+.colorJ
+{
+  background-position: -231px -101px;
+}
+
+.colorJ.selected
+{
+  background-position: -265px -99px;
+}
+
+.colorA, .colorAA
+{
+  background-position: 0px 0px;
+}
+
+.colorA.selected, .colorAA.selected
+{
+  background-position: 0px -33px;
+}
+
+.colorK
+{
+  background-position: -230px -0px;
+}
+
+.colorK.selected
+{
+  background-position: -230px -32px;
+}
+
+.colorL
+{
+  background-position: -230px 0px;
+}
+
+.colorL.selected
+{
+  background-position: -230px -32px;
+}
+
+.colorM
+{
+  background-position: -231px -66px;
+}
+
+.colorM.selected
+{
+  background-position: -263px -67px;
+}
+
+.colorN
+{
+  background-position: -263px 0px;
+}
+
+.colorN.selected
+{
+  background-position: -264px -33px;
+}
