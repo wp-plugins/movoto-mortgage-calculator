@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Movoto Mortgage Calculator
-Plugin URI: http://example.com
+Plugin URI: http://wordpress.org/extend/plugins/movoto-mortgage-calculator/
 Description: Movoto Mortgage Calculator
 Version: 1.0.0
 Author: Martin Sudolsky
